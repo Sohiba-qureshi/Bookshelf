@@ -18,7 +18,7 @@ To get started with the Bookshelf Project, follow these steps:
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com//Sohiba-qureshi/bookshelf-project.git
+git clone https://github.com/Sohiba-qureshi/Bookshelf.git
 Install dependencies:
 bash
 Copy code
